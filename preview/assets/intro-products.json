@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "note": "approved means user-approved inclusion, not publisher permission. verified means pictured model, not exact deployed variant. No Zebra endorsement. Sources and usage status retained for every image.",
+  "products": [
+    {
+      "model": "ZD421",
+      "file": "zd421.png",
+      "source": "https://abr.com/labelchef/",
+      "imageSource": "https://abr.com/wp-content/uploads/2024/07/ZD421D-Right-Media-Shipping-Product-Photo-PNG-Original-File-300x274.png",
+      "variant": "ZD421d; media/shipping product photo",
+      "processing": "Original downloaded transparent PNG; unmodified",
+      "src": "/assets/products/zd421.png",
+      "alt": "Zebra ZD421 printer",
+      "verified": true,
+      "approved": true,
+      "publisherPermissionConfirmed": false,
+      "rights": "No image-specific reuse license found in inspected public page. Publisher permission unconfirmed. Inclusion authorized by user for this intro.",
+      "reviewedAt": "2026-10-13"
+    },
+    {
+      "model": "ZQ610",
+      "file": "zq610-cutout.webp",
+      "source": "https://www.libertysystems.com/products/zebra-zq610",
+      "imageSource": "https://www.libertysystems.com/images/products/ZQ610_laying_w-media_800x800.png",
+      "variant": "Legacy ZQ610 with label media; model visible on LCD",
+      "processing": "AI-assisted background extraction from original PNG; lossless WebP encoding; original and extracted PNG retained in archive",
+      "src": "/assets/products/zq610-cutout.webp",
+      "alt": "Zebra ZQ610 printer",
+      "verified": true,
+      "approved": true,
+      "publisherPermissionConfirmed": false,
+      "rights": "No image-specific reuse license found in inspected public page. Publisher permission unconfirmed. Inclusion authorized by user for this intro.",
+      "reviewedAt": "2026-10-13"
+    },
+    {
+      "model": "ZQ610 Plus",
+      "file": "zq610-plus.png",
+      "source": "https://barcotech.net/zebra-zq610-plus-mobile-printer/",
+      "imageSource": "https://barcotech.net/wp-content/uploads/2024/02/ZQ610-Plus.png",
+      "variant": "Standard black ZQ610 Plus; model printed on housing",
+      "processing": "Original downloaded transparent PNG; unmodified",
+      "src": "/assets/products/zq610-plus.png",
+      "alt": "Zebra ZQ610 Plus printer",
+      "verified": true,
+      "approved": true,
+      "publisherPermissionConfirmed": false,
+      "rights": "No image-specific reuse license found in inspected public page. Publisher permission unconfirmed. Inclusion authorized by user for this intro.",
+      "reviewedAt": "2026-10-13"
+    },
+    {
+      "model": "ZD411",
+      "file": "zd411.png",
+      "source": "https://abr.com/labelchef/",
+      "imageSource": "https://abr.com/wp-content/uploads/2024/07/zd411t-photography-product-media-right-4291 × 4291-pix-300-dpi-Original-File-300x300.png",
+      "variant": "ZD411t; photo with label media",
+      "processing": "Original downloaded PNG with alpha; small studio-floor patch remains",
+      "src": "/assets/products/zd411.png",
+      "alt": "Zebra ZD411 printer",
+      "verified": true,
+      "approved": true,
+      "publisherPermissionConfirmed": false,
+      "rights": "No image-specific reuse license found in inspected public page. Publisher permission unconfirmed. Inclusion authorized by user for this intro.",
+      "reviewedAt": "2026-10-13"
+    },
+    {
+      "model": "ZD621",
+      "file": "zd621-cutout.webp",
+      "source": "https://barcodeprintersupply.com/zebra-zd621-printer-with-lcd-screen-zd6a142-d01f00ez-203dpi/",
+      "imageSource": "https://cdn11.bigcommerce.com/s-lm6mr/images/stencil/original/products/843/2355/ZD621D_with_LCD_Right__11472.1768007666.png?c=2",
+      "variant": "ZD621d with LCD; listing 203 dpi, not a confirmation of the project 300 dpi configuration",
+      "processing": "AI-assisted background extraction from original PNG; lossless WebP encoding; original and extracted PNG retained in archive",
+      "src": "/assets/products/zd621-cutout.webp",
+      "alt": "Zebra ZD621 printer",
+      "verified": true,
+      "approved": true,
+      "publisherPermissionConfirmed": false,
+      "rights": "No image-specific reuse license found in inspected public page. Publisher permission unconfirmed. Inclusion authorized by user for this intro.",
+      "reviewedAt": "2026-10-13"
+    }
+  ],
+  "missingAssets": [],
+  "unconfirmedModels": []
+}

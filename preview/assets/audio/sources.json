@@ -1,0 +1,26 @@
+{
+  "reviewedAt": "2026-10-13",
+  "note": "Public MP3 previews linked by the authors' Freesound pages; no restricted original download or login bypass. License as displayed on each page. Playback is attempted by default through the browser AudioContext policy, without prompts or bypass. Audible autoplay and device mute detection are not guaranteed.",
+  "clips": [
+    {
+      "file": "crack.mp3",
+      "title": "glass-shattering_01.ogg",
+      "author": "C_Rogers",
+      "source": "https://freesound.org/people/C_Rogers/sounds/203375/",
+      "download": "https://cdn.freesound.org/previews/203/203375_3569783-hq.mp3",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "usage": "Original public MP3 preview, playback capped at 420ms at low volume"
+    },
+    {
+      "file": "short-choir.mp3",
+      "title": "Short Choir",
+      "author": "Breviceps",
+      "source": "https://freesound.org/people/Breviceps/sounds/444491/",
+      "download": "https://cdn.freesound.org/previews/444/444491_9159316-hq.mp3",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "usage": "Original public MP3 preview; playback rate 0.86, low-volume swell and gain fade synchronized with failing light"
+    }
+  ]
+}
